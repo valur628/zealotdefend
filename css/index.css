@@ -1,0 +1,22 @@
+
+body {
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+}
+
+iframe{
+	display:block;
+}
+
+.IF-LeftCenter-1{
+	position:absolute;
+	top:28.1rem;
+	left:0rem;
+}
+.IF-RightCenter-1{
+	position:absolute;
+	top:28.1rem;
+	right:0rem;
+}

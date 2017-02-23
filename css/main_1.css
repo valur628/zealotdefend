@@ -1,0 +1,39 @@
+.Welcome{
+	font-size: 30px;
+	text-align: center;
+	font-weight: 800;
+}
+
+.B-Logo{
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+}
+
+.PlayMenu-Box{
+	-webkit-transition-duration: 0.5s; /* 사파리 브라우저 */
+    transition-duration: 0.5s; /* 나머지 브라우저 */
+    border-radius: 6px;
+    padding: 15px 32px; 
+	background-color: rgba( 255, 255, 255, 0.0 );
+	color: #4CAF50;
+    font-size: 16px;
+    text-align: center;
+    text-decoration: none;
+	border: 3px solid #4CAF50;
+}
+.PlayMenu-Box:hover{
+	background-color: #4CAF50;
+	color: white;
+}
+
+body {
+	cursor: default;
+	font-family: 'Nanum Gothic', serif;
+	color: #F1F1F1;
+	background-color: #3A3B3C;
+	margin-top: 55px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	margin-right: 0px;
+}

@@ -1,0 +1,53 @@
+.S-Logo{
+	position: fixed;
+	left: -2rem;
+	top: -1.85rem;
+}
+
+.Top-Menu{
+	-webkit-transition-duration: 0.3s; /* 사파리 브라우저 */
+    transition-duration: 0.3s; /* 나머지 브라우저 */
+	font-size: 19px;
+	text-decoration: none
+}
+.Top-Menu-Cafe{
+	position: fixed;
+	left: 20rem;
+	top: 1rem;
+}
+.Top-Menu-Chating{
+	position: fixed;
+	left: 27rem;
+	top: 1rem;
+}
+.Top-Menu-Question{
+	position: fixed;
+	left: 34rem;
+	top: 1rem;
+}
+.Top-Menu-Report{
+	position: fixed;
+	left: 41rem;
+	top: 1rem;
+}
+.Top-Menu-Gamerule{
+	position: fixed;
+	left: 48rem;
+	top: 1rem;
+}
+
+.Top-Menu-Cafe:visited, .Top-Menu-Chating:visited, .Top-Menu-Question:visited, .Top-Menu-Report:visited, .Top-Menu-Gamerule:visited{
+	color: Black;
+}
+.Top-Menu-Cafe:hover, .Top-Menu-Chating:hover, .Top-Menu-Question:hover, .Top-Menu-Report:hover, .Top-Menu-Gamerule:hover{
+	color: #FB5900;
+	top: 0.95rem;
+}
+
+body {
+	cursor: default;
+	font-family: 'Nanum Gothic', serif;
+	background-color: #F1F1F1;
+	margin: 0px 0px 0px 0px;
+	font-weight: 600;
+}
