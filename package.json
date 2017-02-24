@@ -1,0 +1,15 @@
+{
+  "name": "zealot-defend",
+  "version": "1.0.0",
+  "description": "fuck yeah",
+  "dependencies": {
+    "express": "4.14.1"
+  },
+  "private": true,
+  "main": "app.js",
+  "scripts": {
+    "start": "node --use_strict app.js"
+  },
+  "author": "Ionut-Cristian Florescu <izure@naver.com>",
+  "license": "ISC"
+}
