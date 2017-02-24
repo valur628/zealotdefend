@@ -9,7 +9,7 @@ app.use(express.static('./public'));
 const server = http.createServer(app);
 const env = {
     NODE_IP: '172.30.35.182', // openshift node.js 서버 아이피. 역시 걍 이건가봐
-    NODE_PORT: 8080
+    NODE_PORT: '8080'
 };
 
 console.log('Listening...');
