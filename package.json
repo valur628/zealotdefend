@@ -7,9 +7,6 @@
   },
   "private": true,
   "main": "app.js",
-  "scripts": {
-    "start": "node --use_strict app.js"
-  },
   "author": "Ionut-Cristian Florescu <izure@naver.com>",
   "license": "ISC"
 }
