@@ -20,5 +20,6 @@ if (error) {
 }
 else {
     console.log('DONE!');
+    console.log('test');
 }
 });
