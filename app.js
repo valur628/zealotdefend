@@ -8,7 +8,7 @@ app.use(express.static('./public'));
 //public 내부에 있던 모든 폴더를 그냥 접속하면 보여주는 방식으로 만들겠다.
 const server = http.createServer(app);
 const env = {
-    NODE_IP: 'localhost',//'172.30.35.182',
+    NODE_IP: '54.164.199.241',//'172.30.35.182',
     NODE_PORT: 8080
 };
 
